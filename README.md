@@ -6,7 +6,7 @@
 - performance focused
 
 ## lsp, dap config
-s<Up>port for 
+support for 
 - cpp (clangd/lldb)
 - python (pylyzer/debugpy)
 - haskell (hls/haskell-debug-adapter)
@@ -14,7 +14,7 @@ s<Up>port for
 - ocaml (ocamllsp/none)
 
 ## Keymaps
-Leader '<Space>' is the spacebar
+Leader '`<Space>`' is the spacebar
 
 1.  **Misc**
 
