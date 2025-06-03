@@ -4,6 +4,7 @@
 - unintrusive and intuitive
 - doesn't assume you have a fancy terminal with extra features
 - performance focused
+- portable (though here at the expense of some configs, for now)
 
 ## lsp, dap config
 support for 
@@ -95,4 +96,7 @@ Leader '`<Space>`' is the spacebar
     | Normal | `<Space> + lg`    | `<Cmd>LazyGit<CR>`          | Open the LazyGit TUI                 |
 
 
-
+## To do
+1. possibly get more adapters through mason (may require upstream commit)
+2. better inline debugger?
+3. markdown renderer, maybe?
